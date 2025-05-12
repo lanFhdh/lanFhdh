@@ -9,13 +9,13 @@ All tools helps you in the installation of automatic tools that are useful for t
 
 > pkg install python
 
-> git clone https://github.com/lanFhdh-tools
+> git clone https://github.com/lanFhdh
 
-> cd lanFhdh-tools
+> cd lanFhdh
 
-> chmod +x lanFhdh-tools.py
+> chmod +x lanFhdh.py
 
-> python lanFhdh-tools.py
+> python lanFhdh.py
 
 
 # بوتي على التلجرام 
